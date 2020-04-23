@@ -1,7 +1,12 @@
 .header {
     font-size: 2rem;
+    background: white;
+    margin-left:20%;
+    margin-right:20%;
+    border-radius:0.5rem;
     text-align: center; /* расположение по центру*/
 }
+
 
 .content {
     margin-top: 5%;
@@ -14,15 +19,19 @@
 .footer {
     background: #858585;
     font-weight: bold;
-    height:30%;
+    padding-bottom: 13%;
+    padding-top: 8%;
     padding-left: 3%;
+    margin-left: 3%;
+    margin-right:3%;
+    border-radius: 0.5rem;
 }
 
 body {
     margin: 0;
     width: 100%;
     height: 100%;
-
+    background: aqua;
 }
 
 a {
